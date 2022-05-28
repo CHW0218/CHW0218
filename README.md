@@ -30,7 +30,7 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
 </a>	
   +
 <a href="https://www.w3schools.com/CPP/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+	<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="cpp" width="40" height="40"/> 
 </a> 
 	+
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
@@ -48,20 +48,22 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
 
 #### Frameworks & Libraries
 <p align="left"> 
-		<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+	</a> +
+	<a href="https://koajs.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/github/explore/087f23463641d25ee971402fa26e3dfb2855edb9/topics/koa/koa.png" alt="koajs" width="40" height="40"/> 
+	</a> +
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="socket.io" width="40" height="40"/> 
 	</a> +
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 	</a> +
-	<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-		<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-	</a> +
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 	</a> +
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+	<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 	</a>
 </p>
 
