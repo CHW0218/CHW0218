@@ -7,8 +7,7 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
+<p><img align="center" src="https://github.com/CHW0218/CHW0218/blob/main/animation_500_kxa883sd.gif" alt="CHW0218" /></p>
 
 - 🌱 I’m currently learning Web Development, Game Development and other programming languages
 
