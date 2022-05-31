@@ -157,6 +157,14 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
         height="30"
       />
     </a> &nbsp;
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+        alt="postgresql"
+        width="30"
+        height="30"
+      />
+    </a> &nbsp;
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
