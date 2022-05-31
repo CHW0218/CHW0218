@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm CHW </h1>
-<h3 align="center">Full Stack Software Engineer </h3>
+<h3 align="center">Back End Software Engineer </h3>
 
 ![](https://komarev.com/ghpvc/?username=CHW0218&color=blue)
 
@@ -31,9 +31,9 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
 <a href="https://www.w3schools.com/CPP/" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="cpp" width="40" height="40"/> 
 </a> 
-	+
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+	  +
+<a href="https://www.programiz.com/c-programming" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a> 
 	+
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -42,6 +42,11 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
 	+
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a> 
+	+
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+
 </a>
 </p>
 
@@ -53,13 +58,17 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
 	<a href="https://koajs.com/" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/github/explore/087f23463641d25ee971402fa26e3dfb2855edb9/topics/koa/koa.png" alt="koajs" width="40" height="40"/> 
 	</a> +
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original-wordmark.svg" alt="socket.io" width="40" height="40"/> 
+	<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
 	</a> +
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 	</a> +
-	<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+	<a href="https://optimalbits.github.io/bull/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/OptimalBits/bull/develop/support/logo.svg" alt="bull" width="40" height="40"/> 	
+	</a> +
+	<a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> 
 	</a> +
 	<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
@@ -68,10 +77,26 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
 
 #### Everything else
   <p align="left">
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
       <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-        alt="firebase"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+        alt="mongodb"
+        width="30"
+        height="30"
+      />
+    </a> &nbsp;
+    <a href="https://redis.io/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
+        alt="redis"
+        width="30"
+        height="30"
+      />
+    </a> &nbsp;
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
+        alt="AWS"
         width="30"
         height="30"
       />
@@ -84,10 +109,10 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
         height="30"
       />
     </a> &nbsp;
-    <a href="https://quasar.dev/" target="_blank" rel="noreferrer">
+    <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
       <img
-        src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg"
-        alt="quasar"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"
+        alt="Azure"
         width="30"
         height="30"
       />
@@ -116,14 +141,6 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
         height="30"
       />
     </a> &nbsp;
-    <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-        alt="cypress"
-        width="30"
-        height="30"
-      />
-    </a> &nbsp;
     <a href="https://graphql.org" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
@@ -132,18 +149,10 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
         height="30"
       />
     </a> &nbsp;
-    <a href="https://heroku.com" target="_blank" rel="noreferrer">
+    <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
       <img
-        src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-        alt="heroku"
-        width="30"
-        height="30"
-      />
-    </a> &nbsp;
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-        alt="mongodb"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg"
+        alt="ubuntu"
         width="30"
         height="30"
       />
