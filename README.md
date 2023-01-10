@@ -192,14 +192,6 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
 
 ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/CHW0218"><img alt="CHW0218's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CHW0218&custom_title=CHW0218's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-
-<br/>
-
 
 <summary><b>🏆 Git profile Trophies</b></summary>
 
