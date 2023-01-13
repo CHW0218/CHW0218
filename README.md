@@ -176,20 +176,6 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
   </p>
 
 
-<h2 align="center">🏆 Github Stats</h3>
-
-
-<summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="CHW0218's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CHW0218&show_icons=true&theme=tokyonight" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CHW0218&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="CHW0218" height="150px"/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-
 ----
 
 
