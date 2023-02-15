@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hey, I'm CHW </h1>
+![Metrics](/github-metrics.svg)
+
+<!-- <h1 align="center">👋 Hey, I'm CHW </h1>
 <h3 align="center">Backend Software Engineer </h3>
 
 ![](https://komarev.com/ghpvc/?username=CHW0218&color=blue)
@@ -15,6 +17,7 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
 
 - 📦 Let's chat: [LinkedIn](https://www.linkedin.com/in/haowencai/)
 
+ -->
 
 <!-- <h2 align="center"> 🧰 My toolbox </h3>
 
@@ -176,7 +179,6 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
   </p>
 
  -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHW0218&layout=compact"/>
 <!-- ---- -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=CHW0218&show_icons=true&theme=dark"/> -->
 
