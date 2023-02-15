@@ -16,7 +16,7 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
 - 📦 Let's chat: [LinkedIn](https://www.linkedin.com/in/haowencai/)
 
 
-<h2 align="center"> 🧰 My toolbox </h3>
+<!-- <h2 align="center"> 🧰 My toolbox </h3>
 
 #### Languages
 <p>
@@ -175,13 +175,14 @@ Hey, I'm CHW. I'm a CE student at University of Waterloo graduating 2025.
     </a> &nbsp;
   </p>
 
+ -->
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHW0218&layout=compact"/>
+<!-- ---- -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=CHW0218&show_icons=true&theme=dark"/> -->
 
-----
+<!-- <summary><b>🏆 Git profile Trophies</b></summary>
 
-
-<summary><b>🏆 Git profile Trophies</b></summary>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CHW0218&layout=compact&theme=algolia" alt="CHW0218" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CHW0218&layout=compact&theme=algolia" alt="CHW0218" /></a> </p> -->
 
 <!--a
 **CHW0218/CHW0218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
